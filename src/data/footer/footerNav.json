@@ -1,0 +1,55 @@
+[
+  {
+    "title": "عنا",
+    "navLinks": [
+      {
+        "name": "معلومات عنا",
+        "path": "/about"
+      },
+      {
+        "name": "التصنيفات",
+        "path": "/categories"
+      },
+      {
+        "name": "تسوق",
+        "path": "/shop"
+      },
+
+      {
+        "name": "التعليمات",
+        "path": "/faq"
+      },
+      {
+        "name": "تواصل معنا",
+        "path": "/contact"
+      }
+    ]
+  },
+
+  {
+    "title": "روابط مفيدة",
+    "navLinks": [
+
+      {
+        "name": "سياسة الخصوصية",
+        "path": "/faq"
+      },
+      {
+        "name": "شروط الاستخدام",
+        "path": "/about"
+      },
+      {
+        "name": "الدعم",
+        "path": "/blog"
+      },
+      {
+        "name": "تفاصيل الشحن",
+        "path": "/about"
+      },
+      {
+        "name": "معلومات",
+        "path": "/about"
+      }
+    ]
+  }
+]

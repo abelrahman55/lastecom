@@ -1,0 +1,52 @@
+[
+  {
+    "categoryId": "عروض المكياج",
+    "name": "عروض المكياج",
+    "image": "/assets/img/top-categories-img1.jpg"
+  },
+  {
+    "categoryId": "عروض العناية",
+    "name": "عروض العناية",
+    "image": "/assets/img/top-categories-img2.jpg"
+  },
+  {
+    "categoryId": "عروض العطور",
+    "name": "عروض العطور",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXYT0SqUrMLWQnuRouTY8WQISsBaVZPStrQ&usqp=CAU"
+  },
+  {
+    "categoryId": " العطور",
+    "name": " العطور",
+    "image": "/assets/img/top-categories-img4.jpg"
+  },
+  {
+    "categoryId": "مكياج",
+    "name": "مكياج",
+    "image": "/assets/img/top-categories-img5.jpg"
+  },
+  {
+    "categoryId": "العناية",
+    "name": "العناية",
+    "image": "/assets/img/top-categories-img6.jpg"
+  },
+  {
+    "categoryId": "أجهزة",
+    "name": "أجهزة",
+    "image": "/assets/img/top-categories-img6.jpg"
+  },
+  {
+    "categoryId": "عدسات",
+    "name": "عدسات",
+    "image": "/assets/img/top-categories-img6.jpg"
+  },
+  {
+    "categoryId": "ساعات",
+    "name": "ساعات",
+    "image": "/assets/img/top-categories-img6.jpg"
+  },
+  {
+    "categoryId": "الماركات التجارية",
+    "name": "الماركات التجارية",
+    "image": "/assets/img/top-categories-img6.jpg"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "step": "شحن سريع",
+    "title": "كل العالم",
+    "icon": "icon-shipping"
+  },
+  {
+    "step": "تواصل مباشر",
+    "title": "+1 345 99 71 345",
+    "icon": "icon-helpline"
+  },
+  {
+    "step": "خدمه العملاء",
+    "title": "الانهاء",
+    "icon": "icon-24"
+  }
+]
